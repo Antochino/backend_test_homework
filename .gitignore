@@ -1,2 +1,4 @@
 #Ignore venv
 venv/*
+#Ignore Pytest
+__pycache__/*
